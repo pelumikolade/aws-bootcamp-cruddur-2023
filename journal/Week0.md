@@ -4,13 +4,13 @@
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
-![Image of the conceptual diagram](assets/conceptual.jpeg)
+![Image of the conceptual diagram](assets/conceptual.jpg)
 
 [Lucid Chart Shared Link](https://lucid.app/lucidchart/cc09e146-f07c-4142-9f3c-cfc7964766a7/edit?viewport_loc=-772%2C-169%2C2219%2C1032%2C0_0&invitationId=inv_4a736b9a-2783-41f0-929f-92aee0d7e61f)
 
 ### Recreate Logical Architectual Diagram in Lucid Charts
 
-![Image of the logical diagram](assets/logical.jpeg)
+![Image of the logical diagram](assets/logical.jpg)
 
 [Lucid Chart Shared Link](https://lucid.app/lucidchart/d6319d09-5fff-445b-a717-b901f57db691/edit?viewport_loc=-11%2C-11%2C2219%2C1032%2CGsvyRQib.dyM&invitationId=inv_9bd23b37-b83e-40ab-afe1-2f3647f9b41e)
 
