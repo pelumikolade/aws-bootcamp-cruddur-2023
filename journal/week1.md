@@ -6,16 +6,19 @@
 
 #### Installed the flask package and ran the backend application on the host
 ![Proof of app running on host](assets/week1/application on host.JPG)
+
 #### Accessed the backend app on the web browser
 ![Proof of accessing app on web browser](assets/week1/webpage-response.JPG)
 
 #### Built and ran the container image for the backend app. 
 ![Proof of the container image](assets/week1/docker-imager-run.JPG)
+
 #### Accessed the backend app running in a container on web browser. 
 ![Proof of accessing app on web browser](assets/week1/docker-webpage.JPG)
 
 #### Created the docker-compose file to build and run both frontend and backend conatiners. 
 ![Proof of the frontend and backend containers running](assets/week1/front-back-run.JPG)
+
 #### Accessed the frontend app running in a container on web browser. 
 ![Proof of accessing app on web browser](assets/week1/cruddur-webpage.JPG)
 
