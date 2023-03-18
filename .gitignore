@@ -1,1 +1,5 @@
 docker/**/*
+backend-flask/__pycache__/
+frontend-react-js/node_modules/.cache
+frontend-react-js/node_modules/.cache/
+
