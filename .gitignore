@@ -5,3 +5,4 @@ frontend-react-js/node_modules/
 backend-flask/services/__pycache__/
 backend-flask/lib/__pycache__/
 backend-flask/lib/__pycache__/db.cpython-310.pyc
+backend-flask/lib/__pycache__/db.cpython-310.pyc
